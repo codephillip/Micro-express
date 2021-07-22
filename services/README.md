@@ -1,5 +1,7 @@
 # Services
 
+*CREDIT: https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28*
+
 All the microservices of the architecture, which include two business services (cart & article), an API gateway (using KrakenD), a Kafka service (only for local development), and a service to expose the documentation (swagger docs and postman collections).
 
 # Get started
